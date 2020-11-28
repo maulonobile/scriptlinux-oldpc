@@ -6,4 +6,4 @@ url=$(echo $1|sed 's/^.*=/https:\/\/youtu.be\//')
 echo $url
 
 #mpv --ytdl-format=135+139 $url || mpv --ytdl-format=244+249 $url || mpv --ytdl-format=135+249 $url || mpv --ytdl-format=94 $url
-mpv --ytdl-format=244+249 $url || mpv --ytdl-format=244+139 || mpv --ytdl-format=135+139 $url || mpv --ytdl-format=135+249 $url || mpv --ytdl-format=94 $url || mpv --ytdl-format=18+249 $url
+mpv --ytdl-format=244+249 $url || mpv --ytdl-format=244+139 $url || mpv --ytdl-format=135+139 $url || mpv --ytdl-format=135+249 $url || mpv --ytdl-format=94 $url || mpv --ytdl-format=18+249 $url
