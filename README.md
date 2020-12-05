@@ -7,3 +7,4 @@
 In questo repo sono presenti gli script che uso per facilitarmi la vita su linux.
 1. mpv_youtube.sh - vedere video di youtube da riga di comando
 2. mpv_youtube_hd.sh - vedere video di youtube in hd 720p da riga di comando
+3. onedance.sh - ascoltare One Dance stream in AAC da onedance.fm
