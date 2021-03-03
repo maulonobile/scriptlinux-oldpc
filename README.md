@@ -1,7 +1,10 @@
 # scriptlinux for surviving with old pc
 ## URL guide utilizzo di GitHub
 Questo è il mio primo repo github e la mia memoria è poca. Ho bisogno di appunti:
-* https://www.marcolombardo.com/blog/open/source/2019/02/18/iniziare-con-git-e-github-il-workflow-personale.html
+* https://marcolombardo.com/blog/open/source/2019/02/18/iniziare-con-git-e-github-il-workflow-personale.html
+* https://marcolombardo.com/blog/open/source/2019/02/19/iniziare-con-git-e-github-i-branch.html
+* https://marcolombardo.com/blog/open/source/2019/03/13/iniziare-con-git-e-github-la-pull-request.html
+* https://marcolombardo.com/blog/open/source/2019/05/02/iniziare-con-git-e-github-importare-i-commit.html
 * https://riptutorial.com/it/github
 
 ## Lista script
