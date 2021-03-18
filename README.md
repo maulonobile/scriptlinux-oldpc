@@ -6,6 +6,7 @@ Questo è il mio primo repo github e la mia memoria è poca. Ho bisogno di appun
 * https://marcolombardo.com/blog/open/source/2019/03/13/iniziare-con-git-e-github-la-pull-request.html
 * https://marcolombardo.com/blog/open/source/2019/05/02/iniziare-con-git-e-github-importare-i-commit.html
 * https://riptutorial.com/it/github
+* https://www.xmodulo.com/get-started-with-git.html
 
 ## Lista script
 In questo repo sono presenti gli script che uso per sopravvivere con un old pc.
