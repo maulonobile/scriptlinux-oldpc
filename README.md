@@ -8,6 +8,13 @@ Questo è il mio primo repo github e la mia memoria è poca. Ho bisogno di appun
 * https://riptutorial.com/it/github
 * https://www.xmodulo.com/get-started-with-git.html
 
+## Comandi Git
+1. git clone https://...
+2. edit file
+3. git add files
+4. git commit -m "blablabla"
+5. git push (ptok)
+
 ## Lista script
 In questo repo sono presenti gli script che uso per sopravvivere con un old pc.
 1. mpv_youtube.sh - vedere video di youtube da riga di comando
