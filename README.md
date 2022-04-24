@@ -14,3 +14,4 @@ In questo repo sono presenti gli script che uso per sopravvivere con un old pc.
 2. mpv_youtube_hd.sh - vedere video di youtube in hd 720p da riga di comando
 3. onedance.sh - ascoltare One Dance stream in AAC da onedance.fm
 4. ntpinrim.sh - aggiorna l'orario con i server NTp di Inrim e mostra orario di os e bios
+5. discoradio.sh - ascolta Discoradio.it stream in AAC
