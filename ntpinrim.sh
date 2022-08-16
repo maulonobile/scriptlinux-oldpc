@@ -7,9 +7,10 @@ sudo hwclock
 read -p "Do you want to write? If YES, type Y " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
     then
+    echo ""
     sudo hwclock -w
+    echo ">>>>> SYSTEM CLOCK AFTER"
+    sudo hwclock
 fi
-echo ">>>>> SYSTEM CLOCK POST WRITE"
-sudo hwclock
 
 
