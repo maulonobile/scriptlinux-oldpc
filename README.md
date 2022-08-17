@@ -7,6 +7,7 @@ In questo repo sono presenti gli script che uso per sopravvivere con un old pc.
 3. onedance.sh - ascoltare One Dance stream in AAC da onedance.fm
 4. ntpinrim.sh - aggiorna l'orario con i server NTp di Inrim e mostra orario di os e bios
 5. discoradio.sh - ascolta Discoradio.it stream in AAC
+6. dns_speedtest.sh - speedtest per dns service
 
 ## URL guide utilizzo di GitHub
 Questo è il mio primo repo github e la mia memoria è poca. Ho bisogno di appunti:
